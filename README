@@ -1,0 +1,17 @@
+Name: SANJAY BETTADAPURA GANESHA
+BNUMBER: B00816568
+
+STEPS TO EXECUTE:
+
+STEP1: 
+make
+STEP2:
+java RecommenderSystem <INPUT FILE NAME>
+
+TO CHECK RMS VALUE:
+
+STEP1: 
+javac *.java
+
+STEP2:
+rms <file name>
